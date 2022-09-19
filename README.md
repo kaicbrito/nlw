@@ -5,7 +5,7 @@
 ![preview](./.github/preview.png)
 
 
-Projeto construído do evento Next Level Week da RocketSeat.
+Projeto construído no evento Next Level Week da RocketSeat.
 
 🔗 [Clique aqui para acessar o projeto.](http://kaicbrito.github.io/nlw)
 
